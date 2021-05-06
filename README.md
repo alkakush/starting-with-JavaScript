@@ -1,1 +1,1 @@
-Learn, how to use internal javaScript
+Learn, how to use javaScript
