@@ -1,31 +1,27 @@
-// let variables
+// String, Number, boolean, null, undefined
 
-let age = 30;
+const name = " John";
+const age = 30;
+const rating = 4.5;
+const isCool = true;
+const x = null;
+const y = undefined;
+let z;
 
-age = 31;  // we can reassign the value
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof rating);
+console.log(typeof isCool);
+console.log(typeof x);
+console.log(typeof y);
+console.log(typeof z);
 
-console.log(age);
+//concatenation
 
+const fname = " John";
+const post = 'Manager';
 
-let score;
-
-score = 10;
-
-console.log(score);
-
-
-//const variable
-
-const mark = 100;
-
-console.log(mark);
-
-
-const number = 90;
-
-number = 95;   // cann't reassign the value
-
-console.log(number);
+console.log('my name is ' + fname + ' and I am a ' + post);
 
 
 
