@@ -18,6 +18,7 @@ console.log(typeof z);
 
 //concatenation
 
+
 const fname = " John";
 const post = 'Manager';
 
