@@ -26,3 +26,18 @@ console.log('my name is ' + fname + ' and I am a ' + post);
 
 
 
+// String
+
+const s = 'Hellow World!';
+
+
+console.log(s.toUpperCase());
+console.log(s.length);
+
+console.log(s.substring(0, 5));
+
+console.log(s.split(''));
+
+
+const a = 'technology, computers, it, code';
+console.log(a.split(', '));
