@@ -1,5 +1,6 @@
 // String, Number, boolean, null, undefined
 
+
 const name = " John";
 const age = 30;
 const rating = 4.5;
@@ -22,7 +23,3 @@ const fname = " John";
 const post = 'Manager';
 
 console.log('my name is ' + fname + ' and I am a ' + post);
-
-
-
-
